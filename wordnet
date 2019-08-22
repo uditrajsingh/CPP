@@ -1,0 +1,12 @@
+wordnet
+
+Available techniques
+#uses statistical model
+- Bad of words
+- Count vectorizer
+- TF-IDF(term frequency-inverse document frequency)
+
+#uses internal DL
+- Word2Vec
+- GloVe
+- fastText
